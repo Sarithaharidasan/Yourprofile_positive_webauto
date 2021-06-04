@@ -23,7 +23,7 @@ public void browser_launching() {
 		}
 	}
 	
-/*TC 001 - Validate that the  'Your Profile’ title  should be present in  Your Profile screen */
+/*TC 001 - Validate that the  'Your Profileâ€™ title  should be present in  Your Profile screen */
 @Then("check Your Profile  title  should be present in  Your Profile screen")
 public void yourprofile_positive_tc_001() throws Exception  {
 		try {
@@ -186,7 +186,7 @@ public void yourprofile_positive_tc_007() throws Exception {
 	
 }
 
-/*TC 008 - Validate that the user is able to Activate , Edit and  Deactivate the Phone Number */
+/*TC 008 - Validate that user is able to add Address in contact details. */
 @Then("User is able to add Address in contact details.")
 public void yourprofile_positive_tc_008() throws Exception {
 	try {
